@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PC\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PC\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.AssemblyInfo.cs
+C:\Users\PC\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TodoREST\TodoREST\TodoREST\bin\Debug\netstandard2.0\TodoREST.deps.json
+C:\Users\PC\source\repos\TodoREST\TodoREST\TodoREST\bin\Debug\netstandard2.0\TodoREST.dll
+C:\Users\PC\source\repos\TodoREST\TodoREST\TodoREST\bin\Debug\netstandard2.0\ref\TodoREST.dll
+C:\Users\PC\source\repos\TodoREST\TodoREST\TodoREST\bin\Debug\netstandard2.0\TodoREST.pdb
+C:\Users\PC\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Users\PC\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Users\PC\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PC\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.dll
+C:\Users\PC\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\ref\TodoREST.dll
+C:\Users\PC\source\repos\TodoREST\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.pdb
